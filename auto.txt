@@ -1,0 +1,7 @@
+Márka;Modell;Szín;Ár(dollár)
+Ford;Mondeo;Fekete;1200
+Opel;Astra;Fekete;1150
+Volkswagen;Golf;Zöld;1450
+Ford;Mustang;Piros;7500
+Toyota;picanto;Fehér;1300
+Toyota;yaris;Piros;1250

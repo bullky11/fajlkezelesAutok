@@ -1,0 +1,6 @@
+Márka;Modell;Szín;Ár
+Ford;Mondeo;Fekete;4370000
+Volkswagen;Golf;Zöld;3980000
+Ford;Mustang;Piros;1500000
+Opel;Astra;Fekete;2230000
+Toyota;picanto;Fehér;3038000
